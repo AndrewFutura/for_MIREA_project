@@ -1,0 +1,98 @@
+services:
+  main_00:
+    image: ubuntu
+    ports:
+    - 5900:5900/tcp
+  main_01:
+    image: ubuntu
+    ports:
+    - 5901:5901/tcp
+  main_02:
+    image: ubuntu
+    ports:
+    - 5902:5902/tcp
+  main_03:
+    image: ubuntu
+    ports:
+    - 5903:5903/tcp
+  main_04:
+    image: ubuntu
+    ports:
+    - 5904:5904/tcp
+  main_05:
+    image: ubuntu
+    ports:
+    - 5905:5905/tcp
+  main_06:
+    image: ubuntu
+    ports:
+    - 5906:5906/tcp
+  main_07:
+    image: ubuntu
+    ports:
+    - 5907:5907/tcp
+  main_08:
+    image: ubuntu
+    ports:
+    - 5908:5908/tcp
+  main_09:
+    image: ubuntu
+    ports:
+    - 5909:5909/tcp
+  main_10:
+    image: ubuntu
+    ports:
+    - 5910:5910/tcp
+  main_11:
+    image: ubuntu
+    ports:
+    - 5911:5911/tcp
+  main_12:
+    image: ubuntu
+    ports:
+    - 5912:5912/tcp
+  main_13:
+    image: ubuntu
+    ports:
+    - 5913:5913/tcp
+  main_14:
+    image: ubuntu
+    ports:
+    - 5914:5914/tcp
+  main_15:
+    image: ubuntu
+    ports:
+    - 5915:5915/tcp
+  main_16:
+    image: ubuntu
+    ports:
+    - 5916:5916/tcp
+  main_17:
+    image: ubuntu
+    ports:
+    - 5917:5917/tcp
+  main_18:
+    image: ubuntu
+    ports:
+    - 5918:5918/tcp
+  main_19:
+    image: ubuntu
+    ports:
+    - 5919:5919/tcp
+  main_20:
+    image: ubuntu
+    ports:
+    - 5920:5920/tcp
+  main_21:
+    image: ubuntu
+    ports:
+    - 5921:5921/tcp
+  main_22:
+    image: ubuntu
+    ports:
+    - 5922:5922/tcp
+  main_23:
+    image: ubuntu
+    ports:
+    - 5923:5923/tcp
+version: '3.3'
